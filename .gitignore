@@ -1,0 +1,6 @@
+.DS_Store
+*.test
+*.prof
+*.out
+go.work
+go.work.sum
