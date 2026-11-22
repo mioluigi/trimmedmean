@@ -1,0 +1,7 @@
+R: R version 4.4.2 (2024-10-31)
+platform: aarch64-apple-darwin20
+RNGkind: Mersenne-Twister / Inversion / Rejection
+seed: 9431
+sizeof long double: 8
+long.double capability: FALSE
+captured: 2026-11-22 17:54 EST
